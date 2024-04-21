@@ -1,5 +1,5 @@
 const API_URL = "https://api.openai.com/v1/chat/completions";
-const API_KEY = "sk-proj-H5OHP2cOYzdVzXiYP6LET3BlbkFJN11JrSdYMeeeQzLxNuUr";
+const API_KEY = "sk-proj-oXufdhvxwU0zYJYVzMKvT3BlbkFJw3GaS02KFHMdrPdqT9Hy";
 
 window.addEventListener('scroll', function() {
     // Check if user has reached the bottom of the page
@@ -57,21 +57,7 @@ window.addEventListener('scroll', function() {
     }
 });
 
-function openAnimalWelfare(){
-    window.location.href = "info1.html";
-}
-function openOrphanage(){
-    window.location.href = "info2.html";
-}
-function openHomelessness(){
-    window.location.href = "info3.html";
-}
-function openEnvironment(){
-    window.location.href = "info4.html";
-}
-function openPoverty(){
-    window.location.href = "info5.html";
-}
+
 
 
 function back(){
