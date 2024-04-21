@@ -1,5 +1,5 @@
 const API_URL = "https://api.openai.com/v1/chat/completions";
-const API_KEY = "sk-proj-oXufdhvxwU0zYJYVzMKvT3BlbkFJw3GaS02KFHMdrPdqT9Hy";
+const API_KEY = "";
 
 window.addEventListener('scroll', function() {
     // Check if user has reached the bottom of the page
